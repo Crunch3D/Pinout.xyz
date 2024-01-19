@@ -32,7 +32,7 @@ DEBUG_LEVEL = 1
 # TODO: Why is this here and not loaded from pinout.yaml
 GROUND_PINS = [6, 9, 14, 20, 25, 30, 34, 39]
 
-lang = "en"
+lang = "fr"
 default_strings = {
     'home': 'Home',
     'boards': 'Boards',
